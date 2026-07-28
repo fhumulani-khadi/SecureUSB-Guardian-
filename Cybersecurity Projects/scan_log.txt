@@ -1,4 +1,0 @@
-[2026-03-06 22:44:19] Suspicious file detected: virus.exe
-[2026-03-06 22:55:02] Suspicious file detected: virus.exe | Hash: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
-[2026-03-06 22:58:08] Suspicious file detected: virus.exe | Hash: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
-[2026-07-01 20:09:26] Suspicious file detected: virus.exe | Hash: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
