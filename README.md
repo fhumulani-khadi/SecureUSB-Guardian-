@@ -51,9 +51,6 @@ SecureUSB-Guardian/
 └── README.md        # Technical project documentation & execution guide
 ```
 
-<img width="721" height="269" alt="image" src="https://github.com/user-attachments/assets/6e061907-12b7-47fc-94ea-2841c3d92c4f" />
-
-
 ---
 
 ## 6. How to Run the Application
