@@ -64,6 +64,7 @@ SecureUSB-Guardian-/
 2. **Clone and Navigate to Project Directory**
    ```bash
    git clone https://github.com
+   cd "SecureUSB-Guardian-/Cybersecurity Projects"
    ```
 
 3. **Run the Scanner**
@@ -92,7 +93,7 @@ Checking: virus.exe
 [INFO] Scan completed.
 ```
 
-<img width="988" height="388" alt="image" src="https://github.com/user-attachments/assets/6eb9fcfe-79e5-43a3-8604-4f5e4087d079" />
+<img width="988" height="388" alt="image" src="https://github.com/user-attachments/assets/57f70d9e-e84f-4e63-8fa5-66c03eb50687" />
 
 
 ---
