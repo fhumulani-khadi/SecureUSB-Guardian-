@@ -51,7 +51,7 @@ SecureUSB-Guardian/
 └── README.md        # Technical project documentation & execution guide
 ```
 
-<img width="721" height="269" alt="image" src="https://github.com/user-attachments/assets/069fa6a5-3106-4966-9532-ce95ac9b52e9" />
+<img width="721" height="269" alt="image" src="https://github.com/user-attachments/assets/6e061907-12b7-47fc-94ea-2841c3d92c4f" />
 
 
 ---
@@ -66,6 +66,7 @@ SecureUSB-Guardian/
 2. **Clone and Navigate to Project Directory**
    ```bash
    git clone https://github.com
+   cd SecureUSB-Guardian
    ```
 
 3. **Run the Scanner**
@@ -94,7 +95,7 @@ Checking: virus.exe
 [INFO] Scan completed.
 ```
 
-<img width="988" height="388" alt="image" src="https://github.com/user-attachments/assets/165fbe17-3b6f-4c23-838e-726a23306bd6" />
+<img width="988" height="388" alt="image" src="https://github.com/user-attachments/assets/506edb22-8f0f-4b41-91e2-c0e1444b1691" />
 
 
 ---
