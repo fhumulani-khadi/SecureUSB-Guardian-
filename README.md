@@ -52,7 +52,6 @@ SecureUSB-Guardian-/
     └── README.md                # Project execution guide
 ```
 
-
 ---
 
 ## 6. How to Run the Application
@@ -94,7 +93,7 @@ Checking: virus.exe
 [INFO] Scan completed.
 ```
 
-<img width="988" height="388" alt="image" src="https://github.com/user-attachments/assets/da8e9497-727e-443b-a873-c9ffadf3a0a8" />
+<img width="988" height="388" alt="image" src="https://github.com/user-attachments/assets/8ce6c7e6-3089-4884-b0bc-d6396416df5b" />
 
 
 ---
