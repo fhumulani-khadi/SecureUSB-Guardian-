@@ -64,7 +64,6 @@ SecureUSB-Guardian-/
 2. **Clone and Navigate to Project Directory**
    ```bash
    git clone https://github.com
-   cd "SecureUSB-Guardian-/Cybersecurity Projects"
    ```
 
 3. **Run the Scanner**
